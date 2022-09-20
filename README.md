@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cüneyd Gültekin Kaya</h1>
-<h3 align="center">A passionate QA and test engineer from Turkey</h3>
+<h3 align="center">A passionate QA and test engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catch-xxii&label=Profile%20views&color=0e75b6&style=flat" alt="catch-xxii" /> </p>
 
